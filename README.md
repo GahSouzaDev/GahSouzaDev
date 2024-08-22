@@ -3,8 +3,7 @@
 
 ## Sobre Mim
 
-Olá! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novas soluções e desafios. Confira alguns dos meus projetos abaixo e entre em contato através das redes sociais!
-
+Desenvolvedor e entusiasta de robótica com uma jornada que começou na infância. Tive meu primeiro contato com Arduino ainda no ensino fundamental, o que despertou minha paixão por robótica e tecnologia. Autodidata desde cedo, fui me aperfeiçoando e me destaquei em equipes de robótica no SESI. Fiz um curso técnico de Eletrotécnica, aprofundando meus conhecimentos em hardware, e atualmente estou cursando Engenharia de Software. Trabalho como desenvolvedor em uma empresa focada em robótica educacional, onde ajudo a tornar a tecnologia acessível para crianças. Com o uso de materiais recicláveis, procuro desmistificar a robótica, quebrando barreiras e promovendo a sustentabilidade desde a base.
 ---
 
 ## 🌟 Principais Projetos
@@ -27,9 +26,7 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novas s
 
 ## 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/emerson-gabriel-a-souza-558841324/)  
 
 ---
 
