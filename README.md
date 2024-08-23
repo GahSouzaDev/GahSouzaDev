@@ -15,10 +15,10 @@
    - Explore a simulação de um smartphone completo diretamente no seu navegador.
 
 <div align="center">
-  <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
-    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
-    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
-    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
+  <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  <img src="miniatura2.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
 </div>
 
 
