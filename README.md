@@ -22,11 +22,20 @@
 
 <!-- Imagens de miniaturas para prévia do Simulador de Smartphone, com bordas personalizadas -->
 <div align="center">
-  <img href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank" src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  <img href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank" src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  <img href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank" src="miniatura2.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  <img href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank" src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
+    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
+    <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
+    <img src="miniatura2.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
+    <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
 </div>
+
 
 <!-- Linha horizontal personalizada para separar as seções -->
 <hr style="border: none; height: 30px; background-color: #9B30FF;"/>
