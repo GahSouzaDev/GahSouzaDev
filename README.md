@@ -14,9 +14,14 @@
    - Desenvolvido com HTML, CSS e JavaScript.
    - Explore a simulação de um smartphone completo diretamente no seu navegador.
 
-   <div align="center">
-     <img src="[https://raw.githubusercontent.com/GahSouzaDev/Simulador-SMARTPHONE/main/screenshot.png](https://github.com/GahSouzaDev/Simulador-SMARTPHONE/blob/main/miniatura.png?raw=true)" alt="Prévia do Simulador de Smartphone" style="max-width: 80%; border: 2px solid #9B30FF; border-radius: 10px;"/>
-   </div>
+<div align="center">
+  <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
+    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
+    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
+    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px;"/>
+</div>
+
+
 
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
