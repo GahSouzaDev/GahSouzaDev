@@ -7,16 +7,27 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahSouzaDev&layout=compact&hide_border=true&title_color=9B30FF&text_color=9B30FF&bg_color=0d1117" alt="Linguagens mais usadas por Gah Souza" />
 </div>
 
-# Bem-vindo ao Meu GitHub! 👋
-
-## Em desenvolvimento...
-
 ## 🌟 Principais Projetos
 
-1. [**Projeto 1: Simulador de Smartphone**](https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html)
-   - Um projeto que simula um smartphone com uma interface intuitiva e apps básicos, desenvolvido com HTML, CSS e JavaScript.
+1. **[Simulador de Smartphone](https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html)**
+   - Um projeto que simula um smartphone com uma interface intuitiva e apps básicos.
+   - Desenvolvido com HTML, CSS e JavaScript.
+   - Explore a simulação de um smartphone completo diretamente no seu navegador.
+
+   <div align="center">
+     <img src="[https://raw.githubusercontent.com/GahSouzaDev/Simulador-SMARTPHONE/main/screenshot.png](https://github.com/GahSouzaDev/Simulador-SMARTPHONE/blob/main/miniatura.png?raw=true)" alt="Prévia do Simulador de Smartphone" style="max-width: 80%; border: 2px solid #9B30FF; border-radius: 10px;"/>
+   </div>
 
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-9B30FF?style=for-the-badge&logo=css3&labelColor=9B30FF&textColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117)&nbsp;
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/emerson-gabriel-a-souza-558841324/" target="_blank">
@@ -24,3 +35,4 @@
   </a>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=footer"/>
