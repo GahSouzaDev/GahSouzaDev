@@ -21,7 +21,7 @@
   <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
 </div>
 
-
+<hr style="border: none; height: 30px; background-color: #9B30FF;"/>
 
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
