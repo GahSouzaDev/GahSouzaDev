@@ -32,6 +32,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117)&nbsp;
 
 <div align="center">  
