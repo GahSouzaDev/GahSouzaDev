@@ -25,13 +25,13 @@
   <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
     <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
+  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/app-configuracao.html" target="_blank">
     <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
+  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/app-clima.html" target="_blank">
     <img src="miniatura2.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
+  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/app-calendario.html" target="_blank">
     <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 250px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
 </div>
