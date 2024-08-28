@@ -1,8 +1,8 @@
 <!-- Início da imagem de cabeçalho gerada pelo Capsule Render -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=header"/>
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=header"/></a>
 
 <!-- Animação de texto digitado, criada usando o serviço Typing SVG, exibindo informações em português e inglês -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Emerson+Gabriel+Souza;Eu+sou+Desenvolvedor+Full+Stack;Estou+estudando+Engenharia+de+Software;Seja+Bem-vindo!+:%29;HELLO,+MY+NAME+is+Emerson+Gabriel+Souza;I'm+a+Full+Stack+Developer;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://github.com/GahSouzaDev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Emerson+Gabriel+Souza;Eu+sou+Desenvolvedor+Full+Stack;Estou+estudando+Engenharia+de+Software;Seja+Bem-vindo!+:%29;HELLO,+MY+NAME+is+Emerson+Gabriel+Souza;I'm+a+Full+Stack+Developer;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://github.com/GahSouzaDev?tab=repositories)
 
 <!-- Seção para exibir as estatísticas do GitHub e as linguagens mais utilizadas -->
 <div align="center">  
@@ -42,19 +42,18 @@
 <hr style="border: none; height: 30px; background-color: #9B30FF;"/>
 
 <!-- Gráfico de atividades no GitHub gerado com GitHub Readme Activity Graph -->
-[![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/GahSouzaDev?tab=repositories">[![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
 
 <!-- Seção de habilidades principais com badges visuais -->
 ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-9B30FF?style=for-the-badge&logo=css3&labelColor=9B30FF&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117)&nbsp;
-
+<a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html"><img src="https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117)" alt="JavaScript" /></a>&nbsp;
+<a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html"><img src="https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117)" alt="HTML" /></a>&nbsp;
+<a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html"><img src="https://img.shields.io/badge/-CSS-9B30FF?style=for-the-badge&logo=css3&labelColor=9B30FF&textColor=0D1117)" alt="CSS" /></a>&nbsp;
+<a href="https://blocomais.com.br/"><img src="https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117)" alt="PHP" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117)" alt="C++" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev"><img src="https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)" alt="GitHub" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)" alt="Node.js" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117)" alt="Python" /></a>&nbsp;
 <!-- Botão de LinkedIn para conectar com o usuário -->
 <div align="center">  
   <a href="https://www.linkedin.com/in/emerson-gabriel-souza-558841324/" target="_blank">
@@ -66,4 +65,4 @@
 </div>
 
 <!-- Imagem de rodapé gerada pelo Capsule Render, igual ao cabeçalho -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=footer"/>
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=footer"/></a>
