@@ -1,5 +1,5 @@
 <!-- Início da imagem de cabeçalho gerada pelo Capsule Render -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=591F93&height=120&section=header"/>
 
 <!-- Animação de texto digitado, criada usando o serviço Typing SVG, exibindo informações em português e inglês -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Emerson+Gabriel+Souza;Eu+sou+Desenvolvedor+Full+Stack;Estou+estudando+Engenharia+de+Software;Seja+Bem-vindo!+:%29;HELLO,+MY+NAME+is+Emerson+Gabriel+Souza;I'm+a+Full+Stack+Developer;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -62,4 +62,4 @@
 </div>
 
 <!-- Imagem de rodapé gerada pelo Capsule Render, igual ao cabeçalho -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=591F93&height=120&section=footer"/>
