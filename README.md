@@ -45,7 +45,8 @@
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/GahSouzaDev?tab=repositories)
 
 <!-- Seção de habilidades principais com badges visuais -->
-### Main skills:
+### ✨ Main skills:
+
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117)" alt="JavaScript" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117)" alt="HTML" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-CSS-9B30FF?style=for-the-badge&logo=css3&labelColor=9B30FF&textColor=0D1117)" alt="CSS" /></a>&nbsp;
