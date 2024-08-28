@@ -5,7 +5,7 @@
 <div align="center">  
   <!-- Estatísticas do GitHub usando GitHub Readme Stats -->
 
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=GahSouzaDev&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=150 align="center" src="https://my-stats-43gk.vercel.app/api?username=GahSouzaDev&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 
   <!-- Exibe as linguagens mais usadas pelo usuário -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahSouzaDev&layout=compact&hide_border=true&title_color=9B30FF&text_color=9B30FF&bg_color=0d1117" alt="Linguagens mais usadas por Gah Souza" />
