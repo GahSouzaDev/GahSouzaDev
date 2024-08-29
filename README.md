@@ -24,16 +24,16 @@
 <!-- Imagens de miniaturas para prévia do Simulador de Smartphone, com bordas personalizadas -->
 <div align="center">
   <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
-    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 150px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 180px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
   <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/config-tela.html" target="_blank">
-    <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 150px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 180px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
   <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/app-clima.html" target="_blank">
-    <img src="miniatura2.png" alt="Prévia do Simulador de Smartphone" style="height: 150px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="miniatura2.png" alt="Prévia do Simulador de Smartphone" style="height: 180px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
   <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/app-calendario.html" target="_blank">
-    <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 150px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 180px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
 </div>
 
