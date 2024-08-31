@@ -53,9 +53,9 @@
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117)" alt="PHP" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117)" alt="Python" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117)" alt="C++" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-PowerShell-9B30FF?style=for-the-badge&logo=powershell&labelColor=9B30FF&textColor=0D1117)" alt="PowerShell" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)" alt="GitHub" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)" alt="Node.js" /></a>&nbsp;
-
 <!-- Botão de LinkedIn para conectar com o usuário -->
 <div align="center">  
   <a href="https://www.linkedin.com/in/emerson-gabriel-souza-558841324/" target="_blank">
