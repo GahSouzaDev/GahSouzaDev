@@ -52,7 +52,6 @@
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-CSS-9B30FF?style=for-the-badge&logo=css3&labelColor=9B30FF&textColor=0D1117)" alt="CSS" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117)" alt="PHP" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117)" alt="Python" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-C-9B30FF?style=for-the-badge&logo=c&labelColor=9B30FF&textColor=0D1117)" alt="C" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117)" alt="C++" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)" alt="GitHub" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)" alt="Node.js" /></a>&nbsp;
