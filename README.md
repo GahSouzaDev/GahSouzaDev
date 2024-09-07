@@ -58,15 +58,22 @@
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)" alt="Node.js" /></a>&nbsp;
 
 
-<!-- Botão de LinkedIn para conectar com o usuário -->
-<div align="center">  
+<!-- Botão de LinkedIn, Instagram e Site -->
+<div align="center">
+  <!-- Botão LinkedIn -->
   <a href="https://www.linkedin.com/in/emerson-gabriel-souza-558841324/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- Botão Instagram -->
   <a href="https://www.instagram.com/gahsouzadev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <!-- Botão Site -->
+  <a href="https://gahsouzadev.github.io/SITE-REPOSITORIO/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%230A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
 </div>
+
 
 <!-- Imagem de rodapé gerada pelo Capsule Render, igual ao cabeçalho -->
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=footer"/></a>
