@@ -7,9 +7,9 @@
 <!-- Seção para exibir as estatísticas do GitHub e as linguagens mais utilizadas -->
 <div align="center">  
   <!-- Estatísticas do GitHub usando GitHub Readme Stats -->
-  <a href="https://github.com/GahSouzaDev?tab=repositories"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GahSouzaDev&show_icons=true&count_private=true&hide_border=true&title_color=9B30FF&icon_color=9B30FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Gah Souza" /> </a>
+  <a href="https://github.com/GahSouzaDev?tab=repositories"><img width="60%" height="300px" src="https://github-readme-stats.vercel.app/api?username=GahSouzaDev&show_icons=true&count_private=true&hide_border=true&title_color=9B30FF&icon_color=9B30FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Gah Souza" /> </a>
   <!-- Exibe as linguagens mais usadas pelo usuário -->
-  <a href="https://github.com/GahSouzaDev?tab=repositories"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahSouzaDev&layout=compact&hide_border=true&title_color=9B30FF&text_color=9B30FF&bg_color=0d1117" alt="Linguagens mais usadas por Gah Souza" /></a>
+  <a href="https://github.com/GahSouzaDev?tab=repositories"><img width="60%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahSouzaDev&layout=compact&hide_border=true&title_color=9B30FF&text_color=9B30FF&bg_color=0d1117" alt="Linguagens mais usadas por Gah Souza" /></a>
 </div>
 
 
