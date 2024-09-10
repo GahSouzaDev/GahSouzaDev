@@ -36,7 +36,7 @@
     <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
 </div>
-<hr style="border: none; height: 30px; background-color: #9B30FF;"/>
+<hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
 2. **[Portfólio Online](https://gahsouza.com.br/)**
    - Este modelo de site demonstra a estrutura e o design de um portfólio on-line.
