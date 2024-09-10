@@ -41,8 +41,8 @@
    - Este modelo de site demonstra a estrutura e o design de um portfólio on-line.
    - Ele inclui comentários para apresentar trabalhos, descrever habilidades e fornecer uma área de contato para que clientes em potencial possam entrar em contato diretamente.
 <div align="center">
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
-    <img src="imagem3.png.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  <a href="https://gahsouza.com.br/" target="_blank">
+    <img src="imagem3.png" alt="Prévia do Portfólio online" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
 </div>
 <!-- Linha horizontal personalizada para separar as seções -->
