@@ -65,6 +65,7 @@
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)" alt="GitHub" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)" alt="Node.js" /></a>&nbsp;
 
+<hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
 <!-- Botão de LinkedIn, Instagram e Site -->
 <div align="center">
