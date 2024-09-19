@@ -39,9 +39,8 @@
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
 2. **[Site de JOGOS](https://gahsouzadev.github.io/JOGOS/)**
-   - Apresentação de Trabalhos: Lançamento do meu novo site de jogos, onde apresento jogos desenvolvido do zero.
-   - Descrição de Habilidades: O site serve como uma vitrine do meu conhecimento em desenvolvimento de software e design de jogos.
-   - Área de Contato: Convido todos a visitarem o site, jogarem e deixarem seus feedbacks, proporcionando uma forma de entretenimento e conexão.
+   - Esse site é uma vitrine e uma forma de entretenimento onde apresento jogos desenvolvido do zero, para mostrar meu conhecimento.
+   - Todos os jogos foram desenvolvidos usando HTML, CSS e JavaScript, sem nenhum framework.
 <div align="center">
  
   <a href="https://gahsouzadev.github.io/JOGOS/jogo1.html" target="_blank">
