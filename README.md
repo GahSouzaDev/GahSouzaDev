@@ -57,13 +57,12 @@
    - Este modelo de site demonstra a estrutura e o design de um portfólio on-line.
    - Ele inclui comentários para apresentar trabalhos, descrever habilidades e fornecer uma área de contato para que clientes em potencial possam entrar em contato diretamente.
 <div align="center">
+
   <a href="https://gahsouza.com.br/" target="_blank">
     <img src="imagem3.png" alt="Prévia do Portfólio online" style="height: 300px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
 </div>
-<!-- Linha 
 
-<hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 <!-- Gráfico de atividades no GitHub gerado com GitHub Readme Activity Graph -->
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/GahSouzaDev?tab=repositories)
 
