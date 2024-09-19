@@ -38,7 +38,23 @@
 </div>
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
-2. **[Portfólio Online](https://gahsouza.com.br/)**
+2. **[Site de JOGOS](https://gahsouzadev.github.io/JOGOS/)**
+   - Apresentação de Trabalhos: Lançamento do meu novo site de jogos, onde apresento jogos desenvolvido do zero.
+   - Descrição de Habilidades: O site serve como uma vitrine do meu conhecimento em desenvolvimento de software e design de jogos.
+   - Área de Contato: Convido todos a visitarem o site, jogarem e deixarem seus feedbacks, proporcionando uma forma de entretenimento e conexão.
+<div align="center">
+ 
+  <a href="https://gahsouzadev.github.io/JOGOS/jogo1.html" target="_blank">
+    <img src="img-jogo1-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://gahsouzadev.github.io/JOGOS/jogo3.html" target="_blank">
+    <img src="img-jogo3-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+</div>
+<!-- Linha horizontal personalizada para separar as seções -->
+<hr style="border: none; height: 30px; background-color: #9B30FF;"/>
+
+3. **[Portfólio Online](https://gahsouza.com.br/)**
    - Este modelo de site demonstra a estrutura e o design de um portfólio on-line.
    - Ele inclui comentários para apresentar trabalhos, descrever habilidades e fornecer uma área de contato para que clientes em potencial possam entrar em contato diretamente.
 <div align="center">
@@ -46,9 +62,9 @@
     <img src="imagem3.png" alt="Prévia do Portfólio online" style="height: 300px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
 </div>
-<!-- Linha horizontal personalizada para separar as seções -->
-<hr style="border: none; height: 30px; background-color: #9B30FF;"/>
+<!-- Linha 
 
+<hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 <!-- Gráfico de atividades no GitHub gerado com GitHub Readme Activity Graph -->
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/GahSouzaDev?tab=repositories)
 
