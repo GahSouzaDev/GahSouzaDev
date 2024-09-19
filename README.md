@@ -43,10 +43,10 @@
    - Todos os jogos foram desenvolvidos usando HTML, CSS e JavaScript, sem nenhum framework.
 <div align="center">
  
-  <a href="https://gahsouzadev.github.io/JOGOS/jogo1.html" target="_blank">
+  <a href="https://gahsouzadev.github.io/JOGOS/" target="_blank">
     <img src="img-jogo1-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
-  <a href="https://gahsouzadev.github.io/JOGOS/jogo3.html" target="_blank">
+  <a href="https://gahsouzadev.github.io/JOGOS/" target="_blank">
     <img src="img-jogo3-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
 </div>
