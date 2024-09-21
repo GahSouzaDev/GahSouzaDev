@@ -39,16 +39,14 @@
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
 2. **[Site de JOGOS](https://gahsouzadev.github.io/JOGOS/)**
-   - Esse site é uma vitrine e uma forma de entretenimento onde apresento jogos desenvolvido do zero, para mostrar meu conhecimento.
-   - Todos os jogos foram desenvolvidos usando HTML, CSS e JavaScript, sem nenhum framework.
+   - O Gah Souza Games é um site que apresenta jogos desenvolvidos com HTML, CSS e JavaScript. Ele destaca minhas habilidades em programação e design, além de oferecer uma área de contato para os usuários.
+   - O layout é visualmente atraente e funcional, proporcionando uma navegação clara e eficiente. Explore os jogos e entre em contato para saber mais!.
 <div align="center">
  
   <a href="https://gahsouzadev.github.io/JOGOS/" target="_blank">
-    <img src="img-jogo1-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="img-j-desktop.png.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
-  <a href="https://gahsouzadev.github.io/JOGOS/" target="_blank">
-    <img src="img-jogo3-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a>
+ 
 </div>
 <!-- Linha horizontal personalizada para separar as seções -->
 <hr style="border: none; height: 30px; background-color: #9B30FF;"/>
