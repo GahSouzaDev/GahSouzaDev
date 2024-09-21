@@ -44,7 +44,7 @@
 <div align="center">
  
   <a href="https://gahsouzadev.github.io/JOGOS/" target="_blank">
-    <img src="img-j-desktop.png.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="img-j-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
  
 </div>
