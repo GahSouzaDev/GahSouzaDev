@@ -10,7 +10,7 @@ Desenvolvedor e entusiasta de robótica com uma jornada que começou na infânci
 </div>
 
 <!-- Seção de habilidades principais com badges visuais -->
-### ✨ Main skills:
+## ✨ Hardware Skills:
 <div align="center">
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117)" alt="JavaScript" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117)" alt="HTML" /></a>&nbsp;
