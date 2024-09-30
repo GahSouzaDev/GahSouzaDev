@@ -4,13 +4,8 @@
 <!-- Animação de texto digitado, criada usando o serviço Typing SVG, exibindo informações em português e inglês -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Emerson+Gabriel+Souza;Eu+sou+Desenvolvedor+Full+Stack;Estou+estudando+Engenharia+de+Software;Seja+Bem-vindo!+:%29;HELLO,+MY+NAME+is+Emerson+Gabriel+Souza;I'm+a+Full+Stack+Developer;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://gahsouza.com.br/)
 
-<!-- Seção para exibir as estatísticas do GitHub e as linguagens mais utilizadas -->
-<div align="center">  
-  <!-- Estatísticas do GitHub usando GitHub Readme Stats -->
-  
-  <!-- Exibe as linguagens mais usadas pelo usuário -->
-  <a href="https://github.com/GahSouzaDev?tab=repositories"><img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahSouzaDev&layout=compact&hide_border=true&title_color=9B30FF&text_color=9B30FF&bg_color=0d1117" alt="Linguagens mais usadas por Gah Souza" /></a>
-</div>
+<!-- Sobre -->
+Desenvolvedor e entusiasta de robótica com uma jornada que começou na infância. Tive meu primeiro contato com Arduino ainda no ensino fundamental, o que despertou minha paixão por robótica e tecnologia. Autodidata desde cedo, fui me aperfeiçoando e me destaquei em equipes de robótica no ensino médio. Fiz um curso técnico de Eletrotécnica, aprofundando meus conhecimentos em hardware, e atualmente estou cursando Engenharia de Software. Trabalho como desenvolvedor fullstack em uma empresa focada em robótica educacional, onde ajudo a tornar a tecnologia acessível para crianças. Com o uso de materiais recicláveis, procuro desmistificar a robótica, quebrando barreiras e promovendo a sustentabilidade desde a base.
 
 
 <!-- Seção destacando os principais projetos -->
