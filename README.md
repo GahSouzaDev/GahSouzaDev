@@ -6,7 +6,7 @@
 
 <!-- Sobre -->
 <div align="center">
-Desenvolvedor e entusiasta de robótica com uma jornada que começou na infância. Tive meu primeiro contato com Arduino ainda no ensino fundamental, o que despertou minha paixão por robótica e tecnologia. Autodidata desde cedo, fui me aperfeiçoando e me destaquei em equipes de robótica no ensino médio. Fiz um curso técnico de Eletrotécnica, aprofundando meus conhecimentos em hardware, e atualmente estou cursando Engenharia de Software. Trabalho como desenvolvedor fullstack em uma empresa focada em robótica educacional, onde ajudo a tornar a tecnologia acessível para crianças. Com o uso de materiais recicláveis, procuro desmistificar a robótica, quebrando barreiras e promovendo a sustentabilidade desde a base.
+Desenvolvedor e entusiasta em robótica com uma jornada que começou na infância. Tive meu primeiro contato com Arduino ainda no ensino fundamental, o que despertou minha paixão por robótica e tecnologia. Autodidata desde cedo, fui me aperfeiçoando e me destaquei em equipes de robótica no ensino médio. Fiz um curso técnico de Eletrotécnica, aprofundando meus conhecimentos em hardware, e atualmente estou cursando Engenharia de Software. Trabalho como desenvolvedor fullstack em uma empresa focada em robótica educacional, onde ajudo a tornar a tecnologia acessível para crianças. Com o uso de materiais recicláveis, procuro desmistificar a robótica, quebrando barreiras e promovendo a sustentabilidade desde a base.
 </div>
 
 <!-- Seção de habilidades principais com badges visuais -->
