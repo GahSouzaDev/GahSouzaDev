@@ -12,16 +12,18 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
 <!-- Seção de habilidades principais com badges visuais -->
 ## ✨ Hardware Skills:
 <div align="center">
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117)" alt="JavaScript" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117)" alt="HTML" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-CSS-9B30FF?style=for-the-badge&logo=css3&labelColor=9B30FF&textColor=0D1117)" alt="CSS" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117)" alt="PHP" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117)" alt="Python" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev/Projetos-Robotica-Arduino-ESP-32"><img src="https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117)" alt="C++" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-C-9B30FF?style=for-the-badge&logo=c&labelColor=9B30FF&textColor=0D1117)" alt="C" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117)" alt="GitHub" /></a>&nbsp;
-<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117)" alt="Node.js" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117" alt="JavaScript" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117" alt="HTML" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-CSS-9B30FF?style=for-the-badge&logo=css3&labelColor=9B30FF&textColor=0D1117" alt="CSS" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-PHP-9B30FF?style=for-the-badge&logo=php&labelColor=9B30FF&textColor=0D1117" alt="PHP" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Python-9B30FF?style=for-the-badge&logo=python&labelColor=9B30FF&textColor=0D1117" alt="Python" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev/Projetos-Robotica-Arduino-ESP-32"><img src="https://img.shields.io/badge/-C++-9B30FF?style=for-the-badge&logo=c%2B%2B&labelColor=9B30FF&textColor=0D1117" alt="C++" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-C-9B30FF?style=for-the-badge&logo=c&labelColor=9B30FF&textColor=0D1117" alt="C" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-9B30FF?style=for-the-badge&logo=github&labelColor=9B30FF&textColor=0D1117" alt="GitHub" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-Node.js-9B30FF?style=for-the-badge&logo=node.js&labelColor=9B30FF&textColor=0D1117" alt="Node.js" /></a>&nbsp;
+<a href="https://github.com/GahSouzaDev/Projetos-IoT"><img src="https://img.shields.io/badge/-IoT-9B30FF?style=for-the-badge&logo=internetofthings&labelColor=9B30FF&textColor=0D1117" alt="IoT" /></a>&nbsp;
 </div>
+
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
 <!-- Seção destacando os principais projetos -->
