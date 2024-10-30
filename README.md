@@ -27,17 +27,18 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
 <!-- Seção destacando os principais projetos -->
 ## 🌟 Principais Projetos
 
-1. **[Simulador de Smartphone](https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html)**
-   - Um projeto que simula um smartphone com uma interface intuitiva e apps básicos.
-   - Desenvolvido com HTML, CSS e JavaScript.
-   - Explore a simulação de um smartphone completo diretamente no seu navegador.
+1. **[D.I.N.O. - Droid Interativo de Navegação e Orientação](https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao)**
+D.I.N.O. é um robô bípede desenvolvido para oferecer orientação e suporte interativo em ambientes com grande fluxo de pessoas, como eventos e aeroportos. Com comandos de voz e sensores de navegação, o D.I.N.O. é capaz de interagir e guiar pessoas a destinos específicos, seja até o banheiro, balcão de check-in, ou pontos de interesse no local.
+
+   - Tecnologia: Desenvolvido com ESP32, sensores de distância, controle de servos e um sistema de comandos de voz por celular.
+   - Aplicações: Ideal para locais com alto fluxo de visitantes, o D.I.N.O. melhora a experiência do usuário, facilitando a navegação e proporcionando um atendimento interativo em tempo real.
 
 <div align="center">
   <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao" target="_blank">
-    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="D.I.N.O.6.jpg" alt="D.I.N.O." style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
   <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao" target="_blank">
-    <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="D.I.N.O.3.jpg" alt="D.I.N.O." style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a> 
 </div>
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
