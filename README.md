@@ -32,6 +32,21 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
    - Desenvolvido com HTML, CSS e JavaScript.
    - Explore a simulação de um smartphone completo diretamente no seu navegador.
 
+<div align="center">
+  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao" target="_blank">
+    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao" target="_blank">
+    <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a> 
+</div>
+<hr style="border: none; height: 10px; background-color: #9B30FF;"/>
+
+2. **[Simulador de Smartphone](https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html)**
+   - Um projeto que simula um smartphone com uma interface intuitiva e apps básicos.
+   - Desenvolvido com HTML, CSS e JavaScript.
+   - Explore a simulação de um smartphone completo diretamente no seu navegador.
+
 <!-- Imagens de miniaturas para prévia do Simulador de Smartphone, com bordas personalizadas -->
 <div align="center">
   <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
@@ -49,7 +64,7 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
 </div>
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
-2. **[Site de JOGOS](https://gahsouzadev.github.io/JOGOS/)**
+3. **[Site de JOGOS](https://gahsouzadev.github.io/JOGOS/)**
    - O Gah Souza Games é um site que apresenta jogos desenvolvidos com HTML, CSS e JavaScript. Ele destaca minhas habilidades em programação e design, além de oferecer uma área de contato para os usuários.
    - O layout é visualmente atraente e funcional, proporcionando uma navegação clara e eficiente. Explore os jogos e entre em contato para saber mais!.
 <div align="center">
@@ -62,7 +77,7 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
 <!-- Linha horizontal personalizada para separar as seções -->
 <hr style="border: none; height: 30px; background-color: #9B30FF;"/>
 
-3. **[Portfólio Online](https://gahsouza.com.br/)**
+4. **[Portfólio Online](https://gahsouza.com.br/)**
    - Este modelo de site demonstra a estrutura e o design de um portfólio on-line.
    - Ele inclui comentários para apresentar trabalhos, descrever habilidades e fornecer uma área de contato para que clientes em potencial possam entrar em contato diretamente.
 <div align="center">
