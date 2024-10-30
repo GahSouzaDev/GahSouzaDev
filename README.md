@@ -34,10 +34,10 @@ D.I.N.O. é um robô bípede desenvolvido para oferecer orientação e suporte i
    - Aplicações: Ideal para locais com alto fluxo de visitantes, o D.I.N.O. melhora a experiência do usuário, facilitando a navegação e proporcionando um atendimento interativo em tempo real.
 
 <div align="center">
-  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao" target="_blank">
+  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao/tree/main/D.I.N.O/Fotos-e-Videos" target="_blank">
     <img src="D.I.N.O.6.jpg" alt="D.I.N.O." style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
-  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao" target="_blank">
+  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao/tree/main/D.I.N.O/Fotos-e-Videos" target="_blank">
     <img src="D.I.N.O.3.jpg" alt="D.I.N.O." style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a> 
 </div>
