@@ -102,12 +102,6 @@ Plataforma complementar ao Bloco+ com recursos interativos para alunos e profess
 <!-- Gráfico de atividades no GitHub -->
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/GahSouzaDev?tab=repositories)
 
-<!-- Estatísticas do GitHub -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GahSouzaDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=9B30FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahSouzaDev&layout=compact&langs_count=7&theme=radical&border_color=9B30FF"/>
-</div>
-
 <!-- Botões de contato -->
 <div align="center">
   <!-- Botão LinkedIn -->
