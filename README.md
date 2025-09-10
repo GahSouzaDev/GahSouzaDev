@@ -30,28 +30,25 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
 ### 1. [AxMirrors - E-commerce de Espelhos Iluminados](https://axmirrors.com.br/)
 Site profissional de e-commerce desenvolvido para a AxMirrors, especializada em espelhos iluminados artesanais. O projeto inclui catálogo de produtos, processo de fabricação, depoimentos e sistema de orçamento.
 
-**Tecnologias:** HTML5, CSS3, JavaScript, PHP, Design Responsivo
+**Tecnologias:** HTML5, CSS3, JavaScript, PHP, Design Responsivo  
 **Recursos:** 
 - Catálogo de produtos organizado por categorias
 - Sistema de solicitação de orçamentos
 - Galeria de processo de fabricação
-- Seção de depoimentos de clients
+- Seção de depoimentos de clientes
 - Design moderno e totalmente responsivo
 
 <div align="center">
   <a href="https://axmirrors.com.br/" target="_blank">
-    <img src="axmirrors.png" alt="AxMirrors Website" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="axmirrors.png" alt="AxMirrors Website" style="height: 300px; border: 2px solid #9B30FF; border-radius: 10px;"/>
   </a>
-  <a href="https://axmirrors.com.br/produtos.html" target="_blank">
-    <img src="axmirrors.png" alt="AxMirrors Produtos" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a> 
 </div>
 <hr style="border: none; height: 5px; background-color: #9B30FF;"/>
 
 ### 2. [Umbra: Guerra dos Espíritos - Jogo Épico](https://gahsouzadev.github.io/UMBRA/)
 Jogo épico 2D com três modos de jogo emocionantes e 21 personagens únicos. Embarque em uma jornada através dos quatro reinos espirituais, onde suas decisões moldarão o destino de um mundo à beira do caos.
 
-**Tecnologias:** JavaScript, HTML5 Canvas, CSS3, Design de Jogos
+**Tecnologias:** JavaScript, HTML5 Canvas, CSS3, Design de Jogos  
 **Recursos:** 
 - Modo História com 4 capítulos emocionantes
 - Modo Batalha estilo Mortal Kombat
@@ -61,18 +58,15 @@ Jogo épico 2D com três modos de jogo emocionantes e 21 personagens únicos. Em
 
 <div align="center">
   <a href="https://gahsouzadev.github.io/UMBRA/" target="_blank">
-    <img src="umbra.png" alt="Umbra Game" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="umbra.png" alt="Umbra Game" style="height: 300px; border: 2px solid #9B30FF; border-radius: 10px;"/>
   </a>
-  <a href="https://gahsouzadev.github.io/UMBRA/personagens.html" target="_blank">
-    <img src="umbra.png" alt="Personagens Umbra" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a> 
 </div>
 <hr style="border: none; height: 5px; background-color: #9B30FF;"/>
 
 ### 3. [OrganizeDay - Aplicativo de Produtividade](https://gahsouzadev.github.io/OrganizeDay/)
 Aplicativo completo de organização pessoal que gerencia tarefas, finanças, treinos, dieta e lista de compras. Todos os dados são armazenados localmente no dispositivo por até 12 meses, garantindo total privacidade.
 
-**Tecnologias:** JavaScript, HTML5, CSS3, Local Storage API
+**Tecnologias:** JavaScript, HTML5, CSS3, Local Storage API  
 **Recursos:** 
 - Gerenciamento completo de tarefas e prioridades
 - Controle de finanças pessoais
@@ -82,18 +76,15 @@ Aplicativo completo de organização pessoal que gerencia tarefas, finanças, tr
 
 <div align="center">
   <a href="https://gahsouzadev.github.io/OrganizeDay/" target="_blank">
-    <img src="organizeday.png" alt="OrganizeDay App" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="organizeday.png" alt="OrganizeDay App" style="height: 300px; border: 2px solid #9B30FF; border-radius: 10px;"/>
   </a>
-  <a href="https://gahsouzadev.github.io/OrganizeDay/tarefas.html" target="_blank">
-    <img src="organizeday.png" alt="OrganizeDay Tarefas" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a> 
 </div>
 <hr style="border: none; height: 5px; background-color: #9B30FF;"/>
 
 ### 4. [Asthor Barden - Plataforma Educacional](https://asthor-barden.github.io/AsthorBardenJogos/)
 Plataforma complementar ao Bloco+ com recursos interativos para alunos e professores do Ensino Fundamental. Jogos pedagógicos que transformam a educação com tecnologia e criatividade.
 
-**Tecnologias:** HTML5, CSS3, JavaScript, Realidade Aumentada
+**Tecnologias:** HTML5, CSS3, JavaScript, Realidade Aumentada  
 **Recursos:** 
 - Visualizador 3D e Realidade Aumentada
 - Jogos pedagógicos para diferentes idades
@@ -103,11 +94,8 @@ Plataforma complementar ao Bloco+ com recursos interativos para alunos e profess
 
 <div align="center">
   <a href="https://asthor-barden.github.io/AsthorBardenJogos/" target="_blank">
-    <img src="asthor.png" alt="Asthor Barden" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+    <img src="asthor.png" alt="Asthor Barden" style="height: 300px; border: 2px solid #9B30FF; border-radius: 10px;"/>
   </a>
-  <a href="https://asthor-barden.github.io/AsthorBardenJogos/jogos.html" target="_blank">
-    <img src="asthor.png" alt="Jogos Asthor Barden" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a> 
 </div>
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
