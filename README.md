@@ -1,7 +1,7 @@
 <!-- Início da imagem de cabeçalho gerada pelo Capsule Render -->
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=header"/></a>
 
-<!-- Animação de texto digitado, criada usando o serviço Typing SVG, exibindo informações em português e inglês -->
+<!-- Animação de texto digitado -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B30FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Emerson+Gabriel+Souza;Eu+sou+Desenvolvedor+Full+Stack;Estou+estudando+Engenharia+de+Software;Seja+Bem-vindo!+:%29;HELLO,+MY+NAME+is+Emerson+Gabriel+Souza;I'm+a+Full+Stack+Developer;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://gahsouza.com.br/)
 
 <!-- Sobre -->
@@ -10,7 +10,7 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
 </div>
 
 <!-- Seção de habilidades principais com badges visuais -->
-## ✨ Hardware Skills:
+## ✨ Habilidades Técnicas:
 <div align="center">
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-JavaScript-9B30FF?style=for-the-badge&logo=javascript&labelColor=9B30FF&textColor=0D1117)" alt="JavaScript" /></a>&nbsp;
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img src="https://img.shields.io/badge/-HTML-9B30FF?style=for-the-badge&logo=html5&labelColor=9B30FF&textColor=0D1117)" alt="HTML" /></a>&nbsp;
@@ -25,78 +25,102 @@ Desenvolvedor e entusiasta em robótica com uma jornada que começou na infânci
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
 <!-- Seção destacando os principais projetos -->
-## 🌟 Principais Projetos
+## 🌟 Projetos em Destaque
 
-1. **[D.I.N.O. - Droid Interativo de Navegação e Orientação](https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao)**
-D.I.N.O. é um robô bípede desenvolvido para oferecer orientação e suporte interativo em ambientes com grande fluxo de pessoas, como eventos e aeroportos. Com comandos de voz e sensores de navegação, o D.I.N.O. é capaz de interagir e guiar pessoas a destinos específicos, seja até o banheiro, balcão de check-in, ou pontos de interesse no local.
+### 1. [AxMirrors - E-commerce de Espelhos Iluminados](https://axmirrors.com.br/)
+Site profissional de e-commerce desenvolvido para a AxMirrors, especializada em espelhos iluminados artesanais. O projeto inclui catálogo de produtos, processo de fabricação, depoimentos e sistema de orçamento.
 
-   - Tecnologia: Desenvolvido com ESP32, sensores de distância, controle de servos e um sistema de comandos de voz por celular.
-   - Aplicações: Ideal para locais com alto fluxo de visitantes, o D.I.N.O. melhora a experiência do usuário, facilitando a navegação e proporcionando um atendimento interativo em tempo real.
+**Tecnologias:** HTML5, CSS3, JavaScript, PHP, Design Responsivo
+**Recursos:** 
+- Catálogo de produtos organizado por categorias
+- Sistema de solicitação de orçamentos
+- Galeria de processo de fabricação
+- Seção de depoimentos de clients
+- Design moderno e totalmente responsivo
 
 <div align="center">
-  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao/tree/main/D.I.N.O/Fotos-e-Videos" target="_blank">
-    <img src="D.I.N.O.6.jpg" alt="D.I.N.O." style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  <a href="https://axmirrors.com.br/" target="_blank">
+    <img src="axmirrors.png" alt="AxMirrors Website" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a>
-  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao/tree/main/D.I.N.O/Fotos-e-Videos" target="_blank">
-    <img src="D.I.N.O.3.jpg" alt="D.I.N.O." style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  <a href="https://axmirrors.com.br/produtos.html" target="_blank">
+    <img src="axmirrors.png" alt="AxMirrors Produtos" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a> 
-  <a href="https://github.com/GahSouzaDev/D.I.N.O.-Droid-Interativo-de-Navegacao-e-Orientacao/tree/main/D.I.N.O/Fotos-e-Videos" target="_blank">
-    <img src="D.I.N.O.5.jpg" alt="D.I.N.O." style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+</div>
+<hr style="border: none; height: 5px; background-color: #9B30FF;"/>
+
+### 2. [Umbra: Guerra dos Espíritos - Jogo Épico](https://gahsouzadev.github.io/UMBRA/)
+Jogo épico 2D com três modos de jogo emocionantes e 21 personagens únicos. Embarque em uma jornada através dos quatro reinos espirituais, onde suas decisões moldarão o destino de um mundo à beira do caos.
+
+**Tecnologias:** JavaScript, HTML5 Canvas, CSS3, Design de Jogos
+**Recursos:** 
+- Modo História com 4 capítulos emocionantes
+- Modo Batalha estilo Mortal Kombat
+- Multiplayer em tempo real via WebSocket
+- 21 personagens únicos com habilidades especiais
+- Design visual impressionante e imersivo
+
+<div align="center">
+  <a href="https://gahsouzadev.github.io/UMBRA/" target="_blank">
+    <img src="umbra.png" alt="Umbra Game" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://gahsouzadev.github.io/UMBRA/personagens.html" target="_blank">
+    <img src="umbra.png" alt="Personagens Umbra" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a> 
+</div>
+<hr style="border: none; height: 5px; background-color: #9B30FF;"/>
+
+### 3. [OrganizeDay - Aplicativo de Produtividade](https://gahsouzadev.github.io/OrganizeDay/)
+Aplicativo completo de organização pessoal que gerencia tarefas, finanças, treinos, dieta e lista de compras. Todos os dados são armazenados localmente no dispositivo por até 12 meses, garantindo total privacidade.
+
+**Tecnologias:** JavaScript, HTML5, CSS3, Local Storage API
+**Recursos:** 
+- Gerenciamento completo de tarefas e prioridades
+- Controle de finanças pessoais
+- Planejamento de dieta e treinos
+- Lista de compras inteligente
+- Armazenamento local com total privacidade
+
+<div align="center">
+  <a href="https://gahsouzadev.github.io/OrganizeDay/" target="_blank">
+    <img src="organizeday.png" alt="OrganizeDay App" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://gahsouzadev.github.io/OrganizeDay/tarefas.html" target="_blank">
+    <img src="organizeday.png" alt="OrganizeDay Tarefas" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a> 
+</div>
+<hr style="border: none; height: 5px; background-color: #9B30FF;"/>
+
+### 4. [Asthor Barden - Plataforma Educacional](https://asthor-barden.github.io/AsthorBardenJogos/)
+Plataforma complementar ao Bloco+ com recursos interativos para alunos e professores do Ensino Fundamental. Jogos pedagógicos que transformam a educação com tecnologia e criatividade.
+
+**Tecnologias:** HTML5, CSS3, JavaScript, Realidade Aumentada
+**Recursos:** 
+- Visualizador 3D e Realidade Aumentada
+- Jogos pedagógicos para diferentes idades
+- Braço Robótico controlado por movimentos
+- Simulador de Voo para aprendizado de ortografia
+- Recursos para professores e planos de aula
+
+<div align="center">
+  <a href="https://asthor-barden.github.io/AsthorBardenJogos/" target="_blank">
+    <img src="asthor.png" alt="Asthor Barden" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
+  </a>
+  <a href="https://asthor-barden.github.io/AsthorBardenJogos/jogos.html" target="_blank">
+    <img src="asthor.png" alt="Jogos Asthor Barden" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
   </a> 
 </div>
 <hr style="border: none; height: 10px; background-color: #9B30FF;"/>
 
-2. **[Simulador de Smartphone](https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html)**
-   - Um projeto que simula um smartphone com uma interface intuitiva e apps básicos.
-   - Desenvolvido com HTML, CSS e JavaScript.
-   - Explore a simulação de um smartphone completo diretamente no seu navegador.
-
-<!-- Imagens de miniaturas para prévia do Simulador de Smartphone, com bordas personalizadas -->
-<div align="center">
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/index.html" target="_blank">
-    <img src="miniatura.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a>
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/config-tela.html" target="_blank">
-    <img src="miniatura1.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a>
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/app-clima.html" target="_blank">
-    <img src="miniatura2.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a>
-  <a href="https://gahsouzadev.github.io/Simulador-SMARTPHONE/app-calendario.html" target="_blank">
-    <img src="miniatura3.png" alt="Prévia do Simulador de Smartphone" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a>
-</div>
-<hr style="border: none; height: 10px; background-color: #9B30FF;"/>
-
-3. **[Site de JOGOS](https://gahsouzadev.github.io/JOGOS/)**
-   - O Gah Souza Games é um site que apresenta jogos desenvolvidos com HTML, CSS e JavaScript. Ele destaca minhas habilidades em programação e design, além de oferecer uma área de contato para os usuários.
-   - O layout é visualmente atraente e funcional, proporcionando uma navegação clara e eficiente. Explore os jogos e entre em contato para saber mais!.
-<div align="center">
- 
-  <a href="https://gahsouzadev.github.io/JOGOS/" target="_blank">
-    <img src="img-j-desktop.png" alt="" style="height: 200px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a>
- 
-</div>
-<!-- Linha horizontal personalizada para separar as seções -->
-<hr style="border: none; height: 30px; background-color: #9B30FF;"/>
-
-4. **[Portfólio Online](https://gahsouza.com.br/)**
-   - Este modelo de site demonstra a estrutura e o design de um portfólio on-line.
-   - Ele inclui comentários para apresentar trabalhos, descrever habilidades e fornecer uma área de contato para que clientes em potencial possam entrar em contato diretamente.
-<div align="center">
-
-  <a href="https://gahsouza.com.br/" target="_blank">
-    <img src="imagem3.png" alt="Prévia do Portfólio online" style="height: 300px; border: 2px solid #9B30FF; border-radius: 10px; margin: 0 10px;"/>
-  </a>
-</div>
-<hr style="border: none; height: 10px; background-color: #9B30FF;"/>
-
-<!-- Gráfico de atividades no GitHub gerado com GitHub Readme Activity Graph -->
+<!-- Gráfico de atividades no GitHub -->
 [![Gráfico de atividades no GitHub de Gah Souza](https://github-readme-activity-graph.vercel.app/graph?username=GahSouzaDev&bg_color=000000&color=9B30FF&line=9B30FF&point=dda0dd&area=true&hide_border=true&lang=pt)](https://github.com/GahSouzaDev?tab=repositories)
 
+<!-- Estatísticas do GitHub -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GahSouzaDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=9B30FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahSouzaDev&layout=compact&langs_count=7&theme=radical&border_color=9B30FF"/>
+</div>
 
-<!-- Botão de LinkedIn, Instagram e Site -->
+<!-- Botões de contato -->
 <div align="center">
   <!-- Botão LinkedIn -->
   <a href="https://www.linkedin.com/in/emerson-gabriel-souza-558841324/" target="_blank">
@@ -106,12 +130,15 @@ D.I.N.O. é um robô bípede desenvolvido para oferecer orientação e suporte i
   <a href="https://www.instagram.com/gahsouzadev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <!-- Botão Site -->
-  <a href="https://gahsouzadev.github.io/SITE-REPOSITORIO/" target="_blank">
+  <!-- Botão Website -->
+  <a href="https://gahsouza.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-%230A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <!-- Botão Email -->
+  <a href="mailto:gahsouzadev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-
-<!-- Imagem de rodapé gerada pelo Capsule Render, igual ao cabeçalho -->
+<!-- Imagem de rodapé -->
 <a href="https://github.com/GahSouzaDev?tab=repositories"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B30FF&height=120&section=footer"/></a>
